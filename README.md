@@ -10,6 +10,6 @@
 #### USE FOR EDUCATIONAL PURPOSES ONLY.
 #### THE DEVELOPER (R3i) IS NOT RESPONSIBLE IF YOU CAUSE ANY DAMAGE USING THIS SOFTWARE
 #### USE AT YOUR OWN RISK.
-### PS.: Windows defender or any antivirus might think that this file is a trojan, virus or any thing. This is very common when using Pyinstaller to convert the script into an exe (So most of u can run it easily.
+### PS.: Windows defender or any antivirus might think that this file is a trojan, virus or any thing. This is called an false-positive (Don't know what it is? Google it!) and its very common when using Pyinstaller to convert the script into an exe (So most of you can run it easily).
 ### ALWAYS USE A VPN WHEN DOING BAD STUFF🤫😈.
 #### THE LAW OBLIGATES ME TO SAY THAT I DONT ENCOURAGE BAD STUFF.
